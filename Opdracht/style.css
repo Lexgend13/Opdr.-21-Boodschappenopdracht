@@ -1,0 +1,22 @@
+.bruh {
+    font-family: Cambria, sans-serif;
+    text-align: left;
+  }
+
+.table {
+    border-collapse: collapse;
+}
+
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+
+.GroceriesTable {
+    padding: 10px;
+    border-color: #888;
+    border-style: solid;
+    border-width: 1px;
+}
